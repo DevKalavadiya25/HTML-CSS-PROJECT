@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+
+}
+
+.main {
+  width: 80%;
+  height: 700px;
+  border: 1px solid rgb(14, 14, 14);
+  background-image: url(https://img.freepik.com/free-vector/abstract-realistic-technology-particle-background_23-2148435701.jpg?t=st=1718186051~exp=1718189651~hmac=5702c7068b4d7d2e3ee445b9b6f82cea341350db9470e9da5a8078c32ac7dc40&w=740);
+  position: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+}
+
+.Glass {
+  width: 40%;
+  height: 450px;
+  border: 3px solid rgb(219, 137, 30);
+  margin: auto;
+  margin-top: 10%;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(7.5px);
+  border-radius:5%;
+
+}
+
+input {
+  line-height: 35px;
+  margin-left: 45px;
+  width: 70%;
+  box-sizing: border-box;
+  background-color:rgb(5, 5, 5);
+
+}
+
+button {
+  line-height: 50px;
+  margin-top: 50px;
+  margin-left: 100px;
+  width: 40%;
+  color: #f9f8f6;
+  font-size: medium;
+  border-radius: 10%;
+  background-color:gray;
+
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+
+}
+
+h1 {
+
+  margin-bottom: 20px;
+  color: #93d519;
+  margin-left: 30px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2 {
+  text-align: center;
+  color: #04bbee;
+  margin-right: 50%;
+
+}

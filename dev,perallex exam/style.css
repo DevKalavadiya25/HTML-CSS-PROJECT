@@ -1,0 +1,47 @@
+.main {
+    width: 100%;
+    height: 700px;
+    border: 2px solid red;
+    background-image: url('https://img.freepik.com/free-vector/realistic-polygonal-background_23-2148930553.jpg?size=626&ext=jpg&uid=R134400835&ga=GA1.1.1259147051.1713034878&semt=ais');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-size: medium;
+    font: color rgb(24, 24, 24);
+    text-align: center;
+}
+
+.main2 {
+    width: 100%;
+    height: 700px;
+    border: 2px solid rgb(42, 39, 235);
+    background-image: url('https://img.freepik.com/free-photo/river-countryside-rural-scenic-tourism_1417-38.jpg?t=st=1713177069~exp=1713180669~hmac=2ceff53afa73828b7fe024b07728a9430d6cac059fa430ffb8cc24364a0ae717&w=740');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-size: medium;
+    font: color rgb(11, 11, 11);
+    text-align: center;
+}
+
+.main3 {
+    width: 100%;
+    height: 700px;
+    border: 2px solid red;
+    background-image: url('https://img.freepik.com/free-photo/amazing-bengal-tiger-nature_475641-1137.jpg?t=st=1718171669~exp=1718175269~hmac=a5a381714db8ad62089728d68b0c457372013dcad461c028798637717adc0687&w=996');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-size: medium;
+    font: color rgb(20, 19, 19);
+    text-align: center;
+}
+
+.h1 {
+    margin-top: 300px;
+    font-size: 200%;
+    color: #fff;
+}

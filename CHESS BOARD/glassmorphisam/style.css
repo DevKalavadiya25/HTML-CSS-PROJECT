@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+
+}
+.main{
+    width:80%;
+    height: 700px;
+    border: 1px solid rgb(14, 14, 14);
+    background-image:url(https://images.pexels.com/photos/1486974/pexels-photo-1486974.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    position: fixed;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+   
+  
+    
+
+}
+.Glass{
+   width: 40%;
+   height: 450px;
+   border: 3px solid rgb(219, 137, 30);
+   margin: auto;
+   margin-top: 10%;
+   backdrop-filter: blur( 5px );
+-webkit-backdrop-filter: blur( 7.5px );
+  
+
+}
+input{
+    line-height: 35px;
+    margin-left: 45px ;
+    width: 70%;
+    box-sizing: border-box;
+    
+}
+button{
+    line-height: 50px;
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 40%;
+    color: #1dde51;
+    font-size: medium;
+    
+}
+
+form{
+    display: flex;
+  flex-direction: column;
+ 
+}
+    h1 {
+    
+        margin-bottom: 20px;
+        color: #0c0c0c;
+        margin-left: 30px;
+      }
+
+      h2{
+        text-align: center;
+        color: #141314;
+        margin-right: 50%;
+        
+      }
+
+      :hover{
+    
+        transform: scale(5%)
+        transition: 2s;
+
+      }

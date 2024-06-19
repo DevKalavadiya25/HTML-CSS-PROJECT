@@ -1,0 +1,84 @@
+.main{
+    width: 100%;
+    height: 100%;
+    border: 1px solid red;
+    background-image: url(https://xbox-store-checker.com/assets/upload/game/2019/02/optimize/9wzdncrfj3tj-background.jpg);
+    position: fixed;
+    background-size: cover;
+}
+.logo{
+    width: 20%;
+    height: 20%;
+    margin-left: 120px;
+    
+}
+.box{
+    width: 130px;
+    height: 35px;
+    border: 1px solid rgb(246, 243, 243);
+    margin-left: 70%;
+    margin-top: -7%;
+    background-color: rgb(10, 10, 10);
+}
+h3{
+    color: rgb(245, 235, 235);
+    margin-top:6%;
+    text-align: center;
+    
+}
+.box2{
+    width: 80px;
+    height: 30px;
+    border: 1px solid rgb(3, 3, 3);
+    margin-left: 80%;
+    margin-top: -2.2%;
+    background-color: rgb(240, 30, 30);
+    text-align: center;
+    color: white
+}
+.text{
+    font-size: 60px;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 190px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+.P{
+    font-size: 25px;
+    color: rgb(241, 242, 243);
+    text-align: center;
+    margin-top: -2.5%;
+    font-family:unset;
+    
+}
+.P2{
+    font-size: 25px;
+    color: rgb(241, 242, 243);
+    text-align: center;
+    margin-top: 2%;
+    font-family:unset;
+    
+}
+input{
+    width:25%;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: medium;
+    color: aliceblue;
+    margin-left: 30%;
+    background-color:rgb(58, 56, 56);
+}
+button{
+    width: 13%;
+    height: 7%;
+    color: rgb(240, 238, 238);
+    border:1px solid black;
+    background-color: red;
+    font-size: 20px;
+}
+
+button:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
